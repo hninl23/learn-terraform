@@ -16,7 +16,7 @@ terraform {
   /* Uncomment this block to use Terraform Cloud for this tutorial
 */
   cloud {
-    organization = "hashicorp-learn-hnin"
+    organization = "hashicorp-learn-hnin2"
     workspaces {
       name = "learn-terraform-init"
     }
